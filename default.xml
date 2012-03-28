@@ -7,7 +7,7 @@
   <remote name="github"
            fetch="http://github.com" />
 
-  <default revision="refs/heads/ics"
+  <default revision="ics"
            remote="github"
            sync-j="4" />
 
